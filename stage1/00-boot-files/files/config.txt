@@ -57,3 +57,6 @@ dtparam=audio=on
 
 # Enable OTG functions
 dtoverlay=dwc2
+
+# Enable diagnostic Console
+enable_uart=1
